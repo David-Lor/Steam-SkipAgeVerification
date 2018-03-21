@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Bypass Steam date verification (Date of birth) by automatically submitting it as 1999/01/01
 // @author       EnforcerZhukov
-// @match        http://store.steampowered.com/agecheck/app/*
+// @match        https://store.steampowered.com/agecheck/app/*
 // @downloadURL  https://raw.githubusercontent.com/EnforcerZhukov/Steam-SkipAgeVerification/master/SkipSteamAgeVerification.user.js
 // @updateURL    https://raw.githubusercontent.com/EnforcerZhukov/Steam-SkipAgeVerification/master/SkipSteamAgeVerification.user.js
 // @license      MIT
