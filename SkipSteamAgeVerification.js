@@ -16,5 +16,5 @@
     document.onreadystatechange = function() { //Execute when page has been loaded
         document.getElementById("ageYear").value = 1999; //Change year to 1999
         DoAgeGateSubmit(); //Submit form
-    }
+    };
 })();
